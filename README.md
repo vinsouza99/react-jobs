@@ -1,8 +1,7 @@
-# React + Vite
+# ReactJobs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![react jobs screenshot](https://github.com/user-attachments/assets/56aa65df-3cbd-47d2-84bf-b28313d2cbfc)
 
-Currently, two official plugins are available:
+This is a mock job seeking website for React developers that I made following Brad Traversy's YouTube video 'React Crash Course 2024'. It has all of the most basic React concepts (states, effects, routes, etc) as well as a simple backend with JSON.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I made this as homework of Langara College's Post-Degree Diploma in Web and Mobile App Design And Development 
